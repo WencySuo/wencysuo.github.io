@@ -1,6 +1,7 @@
 body {
     background-color: black;
     text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 h1 {
@@ -14,4 +15,8 @@ p{
     text-align: center;
     font-family: 'Courier New', 'Courier New', Courier, monospace;
     font-size: 20px;
+}
+
+nav {
+    color: grey;
 }
